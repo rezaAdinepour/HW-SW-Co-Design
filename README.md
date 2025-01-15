@@ -147,3 +147,15 @@ int main()
 ```
 
 After integrating the design, the next step is to generate the Bitstream file and program it onto the PL (Programmable Logic) section of the FPGA. Once the bitstream file is created, program the board to finalize the implementation.
+
+
+## Contribution
+Feel free to contribute to this project by submitting issues or pull requests. Any improvements or additional features are welcome!
+
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+
+## Contact
+For any questions or further information, contact [r3zaadinep0ur@gmail.com](r3zaadinep0ur@gmail.com).
