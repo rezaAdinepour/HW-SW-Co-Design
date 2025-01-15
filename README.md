@@ -36,3 +36,21 @@ cd HW-SW-Co-Design
 ```
 
 
+### Steps of design
+
+As explained in the video, the goal of this section is to design a Co-Design system. To achieve this, we design a simple NAND gate by:
+1. Implementing an **AND** gate using the FPGA's logic blocks.
+2. Designing a **NOT** module within the processing core (CPU).
+3. Establishing the connections between these two designs.
+
+It is important to note that for this exercise, we use the **EBAZ4205 board**, which features the **Zynq 7000 SoC**. This IC is recognized in the Vivado software under the part number `xc7z010clg400-3
+`
+
+
+An image of this board is provided in bellow:
+
+![ebaz board](Doc/Images/ebaz_board.png)
+
+
+
+
