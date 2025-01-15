@@ -49,7 +49,7 @@ It is important to note that for this exercise, we use the **EBAZ4205 board**, w
 
 An image of this board is provided in bellow:
 
-![ebaz board](Doc/Images/ebaz_board.png)
+![ebaz board](Doc/Images/ebaz_board.jpg)
 
 
 
